@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+        "all": "mem_sculkapocalypse:block/void_cleaner"
+    }
+}
